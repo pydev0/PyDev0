@@ -41,4 +41,4 @@ Feel free to reach out to discuss projects or just exchange ideas. I'm always op
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?PyDev0
