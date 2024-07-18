@@ -6,16 +6,16 @@ Python Developer 🐍
 
 I specialize in Python development, crafting various projects ranging from automation scripts to web applications and Telegram bots. My goal is to create efficient and user-friendly solutions using modern technologies. 
 
-### Skills & Tools 
+## Skills & Tools 
 <p>Programming Languages: Python</p>
-Frameworks & Libraries: Fast API, Django, aiogram, asyncio 
-Databases: PostgreSQL, MySQL 
-Development Tools: Git, Docker, VS Code, Google Cloud 
+<p>Frameworks & Libraries: Fast API, Django, aiogram, asyncio</p>
+<p>Databases: PostgreSQL, MySQL</p>
+<p>Development Tools: Git, Docker, VS Code, Google Cloud</p>
 
-Projects
+## Projects
 Here you'll find a variety of projects I'm working on or maintaining. They showcase different aspects of programming and demonstrate my expertise in Python development. 
 
-Get in Touch
+## Get in Touch
 Feel free to reach out to discuss projects or just exchange ideas. I'm always open to new opportunities for collaboration and growth in the field of development.
 
 * 🌍  I'm based in Kazakstan
