@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is PyDev
 =============================================================================================================================
 
-Python Developer 🖥️🐍
+Backend Django Developer 🖥️🐍
 -------------------
 
-I specialize in Python development, crafting various projects ranging from automation scripts to web applications and Telegram bots. My goal is to create efficient and user-friendly solutions using modern technologies. 
+I specialize in backend Django development, crafting various projects ranging from automation scripts to web applications and Telegram bots. My goal is to create efficient and user-friendly solutions using modern technologies.
 
 ## Skills & Tools 
 <p>Programming Languages: Python</p>
-<p>Frameworks & Libraries: Fast API, Django, aiogram, asyncio</p>
+<p>Frameworks & Libraries: Django, aiogram, asyncio</p>
 <p>Databases: PostgreSQL, MySQL</p>
 <p>Development Tools: Git, Docker, VS Code, Google Cloud</p>
 
