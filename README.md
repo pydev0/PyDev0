@@ -7,7 +7,7 @@ Backend Django Developer 🖥️🐍
 I specialize in backend Django development, crafting various projects ranging from automation scripts to web applications and Telegram bots. My goal is to create efficient and user-friendly solutions using modern technologies.
 
 ## Skills & Tools 
-<p>Programming Languages: Python</p>
+<p>Programming Languages: Python, C#</p>
 <p>Frameworks & Libraries: Django, aiogram, asyncio</p>
 <p>Databases: PostgreSQL, MySQL</p>
 <p>Development Tools: Git, Docker, VS Code, Google Cloud</p>
